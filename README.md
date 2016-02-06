@@ -58,7 +58,9 @@ Check out an example of using this css module [here](https://github.com/StevenIs
 
 ## Development
 
-This version uses webpack to bundle the lib button.css module. For a minimal example of a css module without building with webpack use [css-module-npm-boilerplate](https://github.com/StevenIseki/css-module-npm-boilerplate)
+This version uses webpack to bundle the lib button.css module. 
+
+For a minimal example of a css module without building with webpack use [css-module-npm-boilerplate](https://github.com/StevenIseki/css-module-npm-boilerplate)
 
 The `\src` folder is for development. 
 
